@@ -13,3 +13,4 @@
    - Compile and Run
       * javac AnagramChecker.java
       * java AnagramChecker
+   - Enter two strings to check if they are anagrams.
